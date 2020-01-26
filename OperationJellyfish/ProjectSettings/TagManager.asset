@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - back
+  - Obstcale
+  - Player
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: MG_Ground
+    uniqueID: 52326
+    locked: 0
+  - name: MG_Water
+    uniqueID: 64485
+    locked: 0
+  - name: MG_Objects
+    uniqueID: 49643
     locked: 0
